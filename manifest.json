@@ -1,0 +1,103 @@
+{
+  "id": "org.nuvio.custom.scraped",
+  "name": "Scraped Custom Addon",
+  "version": "1.0.0",
+  "description": "Custom streaming playlist compiled from scraped web links.",
+  "type": "addon",
+  "resources": [
+    "stream",
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series",
+    "tv"
+  ],
+  "catalogs": [
+    {
+      "id": "scraped_streams",
+      "name": "Discovered Channels",
+      "type": "tv"
+    }
+  ],
+  "mediaItems": [
+    {
+      "title": "Apple Music Live: Lady Gaga - Mayhem Requiem",
+      "url": "https://www.pelisplushd.la/pelicula/apple-music-live-lady-gaga-mayhem-requiem",
+      "category": "Music & Concerts",
+      "type": "movie"
+    },
+    {
+      "title": "Tenpuru: No One Can Live on Loneliness",
+      "url": "https://www.pelisplushd.la/anime/tenpuru-no-one-can-live-on-loneliness",
+      "category": "Anime",
+      "type": "series"
+    },
+    {
+      "title": "I Live Here Now (2026)",
+      "url": "https://pelisplushd1.my/8883-i-live-here-now-2026-ver-y-descargar-latino.html",
+      "category": "Latino Movies",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8914f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8914f",
+      "category": "Latino Streams",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8913f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8913f",
+      "category": "Latino Streams",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8912f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8912f",
+      "category": "Latino Streams",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8911f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8911f",
+      "category": "Latino Streams",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8910f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8910f",
+      "category": "Latino Streams",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8909f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8909f",
+      "category": "Latino Streams",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8908f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8908f",
+      "category": "Latino Streams",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8907f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8907f",
+      "category": "Latino Streams",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8906f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8906f",
+      "category": "Latino Streams",
+      "type": "movie"
+    },
+    {
+      "title": "PelisPlus Stream Player (8905f)",
+      "url": "https://pelisplushd1.my/engine/player.php?code=8905f",
+      "category": "Latino Streams",
+      "type": "movie"
+    }
+  ]
+}
