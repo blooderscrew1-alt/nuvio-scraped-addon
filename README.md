@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/blooderscrew1-alt/nuvio-scraped-addon/main/man
 ## 📊 Addon Statistics
 - **Total Streams Configured:** 13
 - **Categories Included:** Music & Concerts, Anime, Latino Movies, Latino Streams
-- **Last Synced Timestamp:** 2026-05-22 17:50:23
+- **Last Synced Timestamp:** 2026-05-22 17:57:43
 
 ---
 *Note: IPTV networks are hosted statically by public links discoverable publicly on searched websites. Use with appropriate viewer credentials.*
