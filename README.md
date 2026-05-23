@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/blooderscrew1-alt/nuvio-scraped-addon/main/str
 ## 📊 Addon Statistics
 - **Total Streams Configured:** 33
 - **Categories Included:** Music & Concerts, Horror, Suspense, Drama, Action, Mystery, General, Movies, Series, Anime, Animation, Adventure, Sci-Fi, Comedy, Crime, Documentary, Fantasy, Foreign, War, History, TV Movies, Romance
-- **Last Synced Timestamp:** 2026-05-22 19:22:40
+- **Last Synced Timestamp:** 2026-05-22 19:24:47
 
 ---
 *Note: IPTV networks are hosted statically by public links discoverable publicly on searched websites.*
