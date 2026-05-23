@@ -1,0 +1,175 @@
+{
+  "id": "org.nuvio.custom.scraped",
+  "name": "Scraped Custom Addon",
+  "version": "1.0.0",
+  "description": "Custom streaming playlist compiled from scraped web links.",
+  "type": "addon",
+  "resources": [
+    "stream",
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series",
+    "tv"
+  ],
+  "catalogs": [
+    {
+      "id": "scraped_streams",
+      "name": "Discovered Channels",
+      "type": "tv"
+    }
+  ],
+  "mediaItems": [
+    {
+      "title": "PelisPlus HD - Inicio",
+      "url": "https://www.pelisplushd.la/",
+      "category": "General",
+      "type": "channel"
+    },
+    {
+      "title": "Catálogo de Películas",
+      "url": "https://www.pelisplushd.la/peliculas",
+      "category": "Movies",
+      "type": "channel"
+    },
+    {
+      "title": "Películas - Últimos Estrenos",
+      "url": "https://www.pelisplushd.la/peliculas/estrenos",
+      "category": "Movies",
+      "type": "channel"
+    },
+    {
+      "title": "Películas Populares",
+      "url": "https://www.pelisplushd.la/peliculas/populares",
+      "category": "Movies",
+      "type": "channel"
+    },
+    {
+      "title": "Catálogo de Series",
+      "url": "https://www.pelisplushd.la/series",
+      "category": "Series",
+      "type": "channel"
+    },
+    {
+      "title": "Series - Últimos Estrenos",
+      "url": "https://www.pelisplushd.la/series/estrenos",
+      "category": "Series",
+      "type": "channel"
+    },
+    {
+      "title": "Series Populares",
+      "url": "https://www.pelisplushd.la/series/populares",
+      "category": "Series",
+      "type": "channel"
+    },
+    {
+      "title": "Doramas Asiáticos",
+      "url": "https://www.pelisplushd.la/generos/dorama",
+      "category": "Drama",
+      "type": "channel"
+    },
+    {
+      "title": "Catálogo de Anime",
+      "url": "https://www.pelisplushd.la/animes",
+      "category": "Anime",
+      "type": "channel"
+    },
+    {
+      "title": "Anime - Últimos Estrenos",
+      "url": "https://www.pelisplushd.la/animes/estrenos",
+      "category": "Anime",
+      "type": "channel"
+    },
+    {
+      "title": "Anime Popular",
+      "url": "https://www.pelisplushd.la/animes/populares",
+      "category": "Anime",
+      "type": "channel"
+    },
+    {
+      "title": "Cine de Acción",
+      "url": "https://www.pelisplushd.la/generos/accion",
+      "category": "Action",
+      "type": "channel"
+    },
+    {
+      "title": "Cine de Animación",
+      "url": "https://www.pelisplushd.la/generos/animacion",
+      "category": "Animation",
+      "type": "channel"
+    },
+    {
+      "title": "Cine de Aventura",
+      "url": "https://www.pelisplushd.la/generos/aventura",
+      "category": "Adventure",
+      "type": "channel"
+    },
+    {
+      "title": "Ciencia Ficción",
+      "url": "https://www.pelisplushd.la/generos/ciencia-ficcion",
+      "category": "Sci-Fi",
+      "type": "channel"
+    },
+    {
+      "title": "Cine de Comedia",
+      "url": "https://www.pelisplushd.la/generos/comedia",
+      "category": "Comedy",
+      "type": "channel"
+    },
+    {
+      "title": "Crimen y Misterio",
+      "url": "https://www.pelisplushd.la/generos/crimen",
+      "category": "Crime",
+      "type": "channel"
+    },
+    {
+      "title": "Documentales",
+      "url": "https://www.pelisplushd.la/generos/documental",
+      "category": "Documentary",
+      "type": "channel"
+    },
+    {
+      "title": "Cine de Drama",
+      "url": "https://www.pelisplushd.la/generos/drama",
+      "category": "Drama",
+      "type": "channel"
+    },
+    {
+      "title": "Cine de Fantasía",
+      "url": "https://www.pelisplushd.la/generos/fantasia",
+      "category": "Fantasy",
+      "type": "channel"
+    },
+    {
+      "title": "Cine Internacional (Foreign)",
+      "url": "https://www.pelisplushd.la/generos/foreign",
+      "category": "Foreign",
+      "type": "channel"
+    },
+    {
+      "title": "Cine Bélico (Guerra)",
+      "url": "https://www.pelisplushd.la/generos/guerra",
+      "category": "War",
+      "type": "channel"
+    },
+    {
+      "title": "Cine de Historia",
+      "url": "https://www.pelisplushd.la/generos/historia",
+      "category": "History",
+      "type": "channel"
+    },
+    {
+      "title": "Películas de Televisión",
+      "url": "https://www.pelisplushd.la/generos/pelicula-de-la-television",
+      "category": "TV Movies",
+      "type": "channel"
+    },
+    {
+      "title": "Cine de Romance",
+      "url": "https://www.pelisplushd.la/generos/romance",
+      "category": "Romance",
+      "type": "channel"
+    }
+  ]
+}
