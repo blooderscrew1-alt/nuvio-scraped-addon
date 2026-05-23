@@ -1,49 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Todas las Películas" tvg-logo="" group-title="Películas",Todas las Películas
+#EXTINF:-1 tvg-id="" tvg-name="PelisPlus HD - Inicio" tvg-logo="" group-title="General",PelisPlus HD - Inicio
+https://www.pelisplushd.la/
+#EXTINF:-1 tvg-id="" tvg-name="Catálogo de Películas" tvg-logo="" group-title="Movies",Catálogo de Películas
 https://www.pelisplushd.la/peliculas
-#EXTINF:-1 tvg-id="" tvg-name="Últimos Estrenos de Películas" tvg-logo="" group-title="Películas",Últimos Estrenos de Películas
+#EXTINF:-1 tvg-id="" tvg-name="Películas - Últimos Estrenos" tvg-logo="" group-title="Movies",Películas - Últimos Estrenos
 https://www.pelisplushd.la/peliculas/estrenos
-#EXTINF:-1 tvg-id="" tvg-name="Películas Populares" tvg-logo="" group-title="Películas",Películas Populares
+#EXTINF:-1 tvg-id="" tvg-name="Películas Populares" tvg-logo="" group-title="Movies",Películas Populares
 https://www.pelisplushd.la/peliculas/populares
-#EXTINF:-1 tvg-id="" tvg-name="Todas las Series" tvg-logo="" group-title="Series",Todas las Series
+#EXTINF:-1 tvg-id="" tvg-name="Catálogo de Series" tvg-logo="" group-title="Series",Catálogo de Series
 https://www.pelisplushd.la/series
-#EXTINF:-1 tvg-id="" tvg-name="Últimos Estrenos de Series" tvg-logo="" group-title="Series",Últimos Estrenos de Series
+#EXTINF:-1 tvg-id="" tvg-name="Series - Últimos Estrenos" tvg-logo="" group-title="Series",Series - Últimos Estrenos
 https://www.pelisplushd.la/series/estrenos
 #EXTINF:-1 tvg-id="" tvg-name="Series Populares" tvg-logo="" group-title="Series",Series Populares
 https://www.pelisplushd.la/series/populares
-#EXTINF:-1 tvg-id="" tvg-name="Doramas" tvg-logo="" group-title="Doramas",Doramas
+#EXTINF:-1 tvg-id="" tvg-name="Doramas Asiáticos" tvg-logo="" group-title="Drama",Doramas Asiáticos
 https://www.pelisplushd.la/generos/dorama
-#EXTINF:-1 tvg-id="" tvg-name="Todos los Animes" tvg-logo="" group-title="Anime",Todos los Animes
+#EXTINF:-1 tvg-id="" tvg-name="Catálogo de Anime" tvg-logo="" group-title="Anime",Catálogo de Anime
 https://www.pelisplushd.la/animes
-#EXTINF:-1 tvg-id="" tvg-name="Últimos Estrenos de Anime" tvg-logo="" group-title="Anime",Últimos Estrenos de Anime
+#EXTINF:-1 tvg-id="" tvg-name="Anime - Últimos Estrenos" tvg-logo="" group-title="Anime",Anime - Últimos Estrenos
 https://www.pelisplushd.la/animes/estrenos
-#EXTINF:-1 tvg-id="" tvg-name="Animes Populares" tvg-logo="" group-title="Anime",Animes Populares
+#EXTINF:-1 tvg-id="" tvg-name="Anime Popular" tvg-logo="" group-title="Anime",Anime Popular
 https://www.pelisplushd.la/animes/populares
-#EXTINF:-1 tvg-id="" tvg-name="Películas de Acción" tvg-logo="" group-title="Action",Películas de Acción
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Acción" tvg-logo="" group-title="Action",Cine de Acción
 https://www.pelisplushd.la/generos/accion
-#EXTINF:-1 tvg-id="" tvg-name="Animación" tvg-logo="" group-title="Animation",Animación
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Animación" tvg-logo="" group-title="Animation",Cine de Animación
 https://www.pelisplushd.la/generos/animacion
-#EXTINF:-1 tvg-id="" tvg-name="Aventura" tvg-logo="" group-title="Adventure",Aventura
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Aventura" tvg-logo="" group-title="Adventure",Cine de Aventura
 https://www.pelisplushd.la/generos/aventura
 #EXTINF:-1 tvg-id="" tvg-name="Ciencia Ficción" tvg-logo="" group-title="Sci-Fi",Ciencia Ficción
 https://www.pelisplushd.la/generos/ciencia-ficcion
-#EXTINF:-1 tvg-id="" tvg-name="Comedia" tvg-logo="" group-title="Comedy",Comedia
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Comedia" tvg-logo="" group-title="Comedy",Cine de Comedia
 https://www.pelisplushd.la/generos/comedia
-#EXTINF:-1 tvg-id="" tvg-name="Crimen" tvg-logo="" group-title="Crime",Crimen
+#EXTINF:-1 tvg-id="" tvg-name="Crimen y Misterio" tvg-logo="" group-title="Crime",Crimen y Misterio
 https://www.pelisplushd.la/generos/crimen
 #EXTINF:-1 tvg-id="" tvg-name="Documentales" tvg-logo="" group-title="Documentary",Documentales
 https://www.pelisplushd.la/generos/documental
-#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="" group-title="Drama",Drama
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Drama" tvg-logo="" group-title="Drama",Cine de Drama
 https://www.pelisplushd.la/generos/drama
-#EXTINF:-1 tvg-id="" tvg-name="Fantasía" tvg-logo="" group-title="Fantasy",Fantasía
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Fantasía" tvg-logo="" group-title="Fantasy",Cine de Fantasía
 https://www.pelisplushd.la/generos/fantasia
-#EXTINF:-1 tvg-id="" tvg-name="Cine Extranjero" tvg-logo="" group-title="Foreign",Cine Extranjero
+#EXTINF:-1 tvg-id="" tvg-name="Cine Internacional (Foreign)" tvg-logo="" group-title="Foreign",Cine Internacional (Foreign)
 https://www.pelisplushd.la/generos/foreign
-#EXTINF:-1 tvg-id="" tvg-name="Guerra" tvg-logo="" group-title="War",Guerra
+#EXTINF:-1 tvg-id="" tvg-name="Cine Bélico (Guerra)" tvg-logo="" group-title="War",Cine Bélico (Guerra)
 https://www.pelisplushd.la/generos/guerra
-#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="" group-title="History",Historia
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Historia" tvg-logo="" group-title="History",Cine de Historia
 https://www.pelisplushd.la/generos/historia
-#EXTINF:-1 tvg-id="" tvg-name="Películas de TV" tvg-logo="" group-title="TV Movies",Películas de TV
+#EXTINF:-1 tvg-id="" tvg-name="Películas de Televisión" tvg-logo="" group-title="TV Movies",Películas de Televisión
 https://www.pelisplushd.la/generos/pelicula-de-la-television
-#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="" group-title="Romance",Romance
+#EXTINF:-1 tvg-id="" tvg-name="Cine de Romance" tvg-logo="" group-title="Romance",Cine de Romance
 https://www.pelisplushd.la/generos/romance
