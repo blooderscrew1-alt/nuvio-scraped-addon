@@ -1,0 +1,23 @@
+{
+  "name": "Nuvio Scraped Latino Providers",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "autoscraped",
+      "name": "Nuvio AutoScraped",
+      "description": "Películas, canales y transmisiones en Latino/Español scrapeados de forma automática.",
+      "version": "1.0.0",
+      "author": "Nuvio Addon Studio",
+      "supportedTypes": [
+        "movie",
+        "tv",
+        "channel"
+      ],
+      "filename": "providers/autoscraped.js",
+      "enabled": true,
+      "contentLanguage": [
+        "es"
+      ]
+    }
+  ]
+}
