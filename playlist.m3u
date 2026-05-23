@@ -1,27 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Apple Music Live: Lady Gaga - Mayhem Requiem" tvg-logo="" group-title="Music & Concerts",Apple Music Live: Lady Gaga - Mayhem Requiem
-https://www.pelisplushd.la/pelicula/apple-music-live-lady-gaga-mayhem-requiem
-#EXTINF:-1 tvg-id="" tvg-name="Tenpuru: No One Can Live on Loneliness" tvg-logo="" group-title="Anime",Tenpuru: No One Can Live on Loneliness
-https://www.pelisplushd.la/anime/tenpuru-no-one-can-live-on-loneliness
-#EXTINF:-1 tvg-id="" tvg-name="I Live Here Now (2026)" tvg-logo="" group-title="Latino Movies",I Live Here Now (2026)
-https://pelisplushd1.my/8883-i-live-here-now-2026-ver-y-descargar-latino.html
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8914f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8914f)
-https://pelisplushd1.my/engine/player.php?code=8914f
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8913f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8913f)
-https://pelisplushd1.my/engine/player.php?code=8913f
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8912f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8912f)
-https://pelisplushd1.my/engine/player.php?code=8912f
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8911f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8911f)
-https://pelisplushd1.my/engine/player.php?code=8911f
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8910f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8910f)
-https://pelisplushd1.my/engine/player.php?code=8910f
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8909f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8909f)
-https://pelisplushd1.my/engine/player.php?code=8909f
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8908f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8908f)
-https://pelisplushd1.my/engine/player.php?code=8908f
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8907f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8907f)
-https://pelisplushd1.my/engine/player.php?code=8907f
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8906f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8906f)
-https://pelisplushd1.my/engine/player.php?code=8906f
-#EXTINF:-1 tvg-id="" tvg-name="PelisPlus Stream Player (8905f)" tvg-logo="" group-title="Latino Streams",PelisPlus Stream Player (8905f)
-https://pelisplushd1.my/engine/player.php?code=8905f
+#EXTINF:-1 tvg-id="" tvg-name="Todas las Películas" tvg-logo="" group-title="Películas",Todas las Películas
+https://www.pelisplushd.la/peliculas
+#EXTINF:-1 tvg-id="" tvg-name="Últimos Estrenos de Películas" tvg-logo="" group-title="Películas",Últimos Estrenos de Películas
+https://www.pelisplushd.la/peliculas/estrenos
+#EXTINF:-1 tvg-id="" tvg-name="Películas Populares" tvg-logo="" group-title="Películas",Películas Populares
+https://www.pelisplushd.la/peliculas/populares
+#EXTINF:-1 tvg-id="" tvg-name="Todas las Series" tvg-logo="" group-title="Series",Todas las Series
+https://www.pelisplushd.la/series
+#EXTINF:-1 tvg-id="" tvg-name="Últimos Estrenos de Series" tvg-logo="" group-title="Series",Últimos Estrenos de Series
+https://www.pelisplushd.la/series/estrenos
+#EXTINF:-1 tvg-id="" tvg-name="Series Populares" tvg-logo="" group-title="Series",Series Populares
+https://www.pelisplushd.la/series/populares
+#EXTINF:-1 tvg-id="" tvg-name="Doramas" tvg-logo="" group-title="Doramas",Doramas
+https://www.pelisplushd.la/generos/dorama
+#EXTINF:-1 tvg-id="" tvg-name="Todos los Animes" tvg-logo="" group-title="Anime",Todos los Animes
+https://www.pelisplushd.la/animes
+#EXTINF:-1 tvg-id="" tvg-name="Últimos Estrenos de Anime" tvg-logo="" group-title="Anime",Últimos Estrenos de Anime
+https://www.pelisplushd.la/animes/estrenos
+#EXTINF:-1 tvg-id="" tvg-name="Animes Populares" tvg-logo="" group-title="Anime",Animes Populares
+https://www.pelisplushd.la/animes/populares
+#EXTINF:-1 tvg-id="" tvg-name="Películas de Acción" tvg-logo="" group-title="Action",Películas de Acción
+https://www.pelisplushd.la/generos/accion
+#EXTINF:-1 tvg-id="" tvg-name="Animación" tvg-logo="" group-title="Animation",Animación
+https://www.pelisplushd.la/generos/animacion
+#EXTINF:-1 tvg-id="" tvg-name="Aventura" tvg-logo="" group-title="Adventure",Aventura
+https://www.pelisplushd.la/generos/aventura
+#EXTINF:-1 tvg-id="" tvg-name="Ciencia Ficción" tvg-logo="" group-title="Sci-Fi",Ciencia Ficción
+https://www.pelisplushd.la/generos/ciencia-ficcion
+#EXTINF:-1 tvg-id="" tvg-name="Comedia" tvg-logo="" group-title="Comedy",Comedia
+https://www.pelisplushd.la/generos/comedia
+#EXTINF:-1 tvg-id="" tvg-name="Crimen" tvg-logo="" group-title="Crime",Crimen
+https://www.pelisplushd.la/generos/crimen
+#EXTINF:-1 tvg-id="" tvg-name="Documentales" tvg-logo="" group-title="Documentary",Documentales
+https://www.pelisplushd.la/generos/documental
+#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="" group-title="Drama",Drama
+https://www.pelisplushd.la/generos/drama
+#EXTINF:-1 tvg-id="" tvg-name="Fantasía" tvg-logo="" group-title="Fantasy",Fantasía
+https://www.pelisplushd.la/generos/fantasia
+#EXTINF:-1 tvg-id="" tvg-name="Cine Extranjero" tvg-logo="" group-title="Foreign",Cine Extranjero
+https://www.pelisplushd.la/generos/foreign
+#EXTINF:-1 tvg-id="" tvg-name="Guerra" tvg-logo="" group-title="War",Guerra
+https://www.pelisplushd.la/generos/guerra
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="" group-title="History",Historia
+https://www.pelisplushd.la/generos/historia
+#EXTINF:-1 tvg-id="" tvg-name="Películas de TV" tvg-logo="" group-title="TV Movies",Películas de TV
+https://www.pelisplushd.la/generos/pelicula-de-la-television
+#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="" group-title="Romance",Romance
+https://www.pelisplushd.la/generos/romance
