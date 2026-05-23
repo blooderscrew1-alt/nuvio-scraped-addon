@@ -2,6 +2,70 @@
 const scrapedStreams = [
   {
     "id": "autoscraped_0",
+    "name": "Apple Music Live: Lady Gaga - Mayhem Requiem",
+    "title": "Apple Music Live: Lady Gaga - Mayhem Requiem",
+    "url": "https://cuevana3.cz/pelicula/apple-music-live-lady-gaga-mayhem-requiem",
+    "category": "Music & Concerts",
+    "type": "movie"
+  },
+  {
+    "id": "autoscraped_1",
+    "name": "Playhouse",
+    "title": "Playhouse",
+    "url": "https://cuevana3.cz/pelicula/playhouse",
+    "category": "Horror",
+    "type": "movie"
+  },
+  {
+    "id": "autoscraped_2",
+    "name": "Romeo Santos: Utopia Live from MetLife Stadium",
+    "title": "Romeo Santos: Utopia Live from MetLife Stadium",
+    "url": "https://cuevana3.cz/pelicula/romeo-santos-utopia-live-from-metlife-stadium",
+    "category": "Music & Concerts",
+    "type": "movie"
+  },
+  {
+    "id": "autoscraped_3",
+    "name": "Playa de Lobos",
+    "title": "Playa de Lobos",
+    "url": "https://cuevana3.cz/pelicula/playa-de-lobos",
+    "category": "Suspense",
+    "type": "movie"
+  },
+  {
+    "id": "autoscraped_4",
+    "name": "En la Playa de Chesil",
+    "title": "En la Playa de Chesil",
+    "url": "https://cuevana3.cz/pelicula/en-la-playa-de-chesil",
+    "category": "Drama",
+    "type": "movie"
+  },
+  {
+    "id": "autoscraped_5",
+    "name": "La Playa",
+    "title": "La Playa",
+    "url": "https://cuevana3.cz/pelicula/la-playa",
+    "category": "Drama",
+    "type": "movie"
+  },
+  {
+    "id": "autoscraped_6",
+    "name": "24 Hours to Live",
+    "title": "24 Hours to Live",
+    "url": "https://cuevana3.cz/pelicula/24-hours-to-live",
+    "category": "Action",
+    "type": "movie"
+  },
+  {
+    "id": "autoscraped_7",
+    "name": "We Have Always Lived in the Castle",
+    "title": "We Have Always Lived in the Castle",
+    "url": "https://cuevana3.cz/pelicula/we-have-always-lived-in-the-castle",
+    "category": "Mystery",
+    "type": "movie"
+  },
+  {
+    "id": "autoscraped_8",
     "name": "PelisPlus HD - Inicio",
     "title": "PelisPlus HD - Inicio",
     "url": "https://www.pelisplushd.la/",
@@ -9,7 +73,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_1",
+    "id": "autoscraped_9",
     "name": "Catálogo de Películas",
     "title": "Catálogo de Películas",
     "url": "https://www.pelisplushd.la/peliculas",
@@ -17,7 +81,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_2",
+    "id": "autoscraped_10",
     "name": "Películas - Últimos Estrenos",
     "title": "Películas - Últimos Estrenos",
     "url": "https://www.pelisplushd.la/peliculas/estrenos",
@@ -25,7 +89,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_3",
+    "id": "autoscraped_11",
     "name": "Películas Populares",
     "title": "Películas Populares",
     "url": "https://www.pelisplushd.la/peliculas/populares",
@@ -33,7 +97,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_4",
+    "id": "autoscraped_12",
     "name": "Catálogo de Series",
     "title": "Catálogo de Series",
     "url": "https://www.pelisplushd.la/series",
@@ -41,7 +105,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_5",
+    "id": "autoscraped_13",
     "name": "Series - Últimos Estrenos",
     "title": "Series - Últimos Estrenos",
     "url": "https://www.pelisplushd.la/series/estrenos",
@@ -49,7 +113,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_6",
+    "id": "autoscraped_14",
     "name": "Series Populares",
     "title": "Series Populares",
     "url": "https://www.pelisplushd.la/series/populares",
@@ -57,7 +121,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_7",
+    "id": "autoscraped_15",
     "name": "Doramas Asiáticos",
     "title": "Doramas Asiáticos",
     "url": "https://www.pelisplushd.la/generos/dorama",
@@ -65,7 +129,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_8",
+    "id": "autoscraped_16",
     "name": "Catálogo de Anime",
     "title": "Catálogo de Anime",
     "url": "https://www.pelisplushd.la/animes",
@@ -73,7 +137,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_9",
+    "id": "autoscraped_17",
     "name": "Anime - Últimos Estrenos",
     "title": "Anime - Últimos Estrenos",
     "url": "https://www.pelisplushd.la/animes/estrenos",
@@ -81,7 +145,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_10",
+    "id": "autoscraped_18",
     "name": "Anime Popular",
     "title": "Anime Popular",
     "url": "https://www.pelisplushd.la/animes/populares",
@@ -89,7 +153,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_11",
+    "id": "autoscraped_19",
     "name": "Cine de Acción",
     "title": "Cine de Acción",
     "url": "https://www.pelisplushd.la/generos/accion",
@@ -97,7 +161,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_12",
+    "id": "autoscraped_20",
     "name": "Cine de Animación",
     "title": "Cine de Animación",
     "url": "https://www.pelisplushd.la/generos/animacion",
@@ -105,7 +169,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_13",
+    "id": "autoscraped_21",
     "name": "Cine de Aventura",
     "title": "Cine de Aventura",
     "url": "https://www.pelisplushd.la/generos/aventura",
@@ -113,7 +177,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_14",
+    "id": "autoscraped_22",
     "name": "Ciencia Ficción",
     "title": "Ciencia Ficción",
     "url": "https://www.pelisplushd.la/generos/ciencia-ficcion",
@@ -121,7 +185,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_15",
+    "id": "autoscraped_23",
     "name": "Cine de Comedia",
     "title": "Cine de Comedia",
     "url": "https://www.pelisplushd.la/generos/comedia",
@@ -129,7 +193,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_16",
+    "id": "autoscraped_24",
     "name": "Crimen y Misterio",
     "title": "Crimen y Misterio",
     "url": "https://www.pelisplushd.la/generos/crimen",
@@ -137,7 +201,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_17",
+    "id": "autoscraped_25",
     "name": "Documentales",
     "title": "Documentales",
     "url": "https://www.pelisplushd.la/generos/documental",
@@ -145,7 +209,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_18",
+    "id": "autoscraped_26",
     "name": "Cine de Drama",
     "title": "Cine de Drama",
     "url": "https://www.pelisplushd.la/generos/drama",
@@ -153,7 +217,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_19",
+    "id": "autoscraped_27",
     "name": "Cine de Fantasía",
     "title": "Cine de Fantasía",
     "url": "https://www.pelisplushd.la/generos/fantasia",
@@ -161,7 +225,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_20",
+    "id": "autoscraped_28",
     "name": "Cine Internacional (Foreign)",
     "title": "Cine Internacional (Foreign)",
     "url": "https://www.pelisplushd.la/generos/foreign",
@@ -169,7 +233,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_21",
+    "id": "autoscraped_29",
     "name": "Cine Bélico (Guerra)",
     "title": "Cine Bélico (Guerra)",
     "url": "https://www.pelisplushd.la/generos/guerra",
@@ -177,7 +241,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_22",
+    "id": "autoscraped_30",
     "name": "Cine de Historia",
     "title": "Cine de Historia",
     "url": "https://www.pelisplushd.la/generos/historia",
@@ -185,7 +249,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_23",
+    "id": "autoscraped_31",
     "name": "Películas de Televisión",
     "title": "Películas de Televisión",
     "url": "https://www.pelisplushd.la/generos/pelicula-de-la-television",
@@ -193,7 +257,7 @@ const scrapedStreams = [
     "type": "channel"
   },
   {
-    "id": "autoscraped_24",
+    "id": "autoscraped_32",
     "name": "Cine de Romance",
     "title": "Cine de Romance",
     "url": "https://www.pelisplushd.la/generos/romance",
