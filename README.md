@@ -5,25 +5,27 @@ Automatically generated and compiled by **Nuvio Addon Studio** on behalf of user
 ## 🚀 Nuvio Import Links
 Copy any of the raw links below and paste it into Nuvio’s import or plugin installation screen:
 
-### 📺 Standard M3U Playlist (Recommended & Simplest)
-```text
-https://raw.githubusercontent.com/blooderscrew1-alt/nuvio-scraped-addon/main/playlist.m3u
-```
-
 ### 🛠️ Nuvio-Native Provider Pack (Latino Provider Format)
-```text
-https://raw.githubusercontent.com/blooderscrew1-alt/nuvio-scraped-addon/main/nuvio-manifest.json
-```
-
-### ⚙️ Static Addon Catalog Manifest JSON
+Pega este enlace en la sección de **Proveedores / Plugins** de la app Nuvio:
 ```text
 https://raw.githubusercontent.com/blooderscrew1-alt/nuvio-scraped-addon/main/manifest.json
 ```
 
+### 📺 Standard M3U Playlist (IPTV Format)
+Pega este enlace en la sección de **Listas / Playlists** de la app Nuvio (o en reproductores como Rokkr, Vavoo, Wiseplay, etc.):
+```text
+https://raw.githubusercontent.com/blooderscrew1-alt/nuvio-scraped-addon/main/playlist.m3u
+```
+
+### ⚙️ Static Addon Catalog Manifest JSON (Stremio format)
+```text
+https://raw.githubusercontent.com/blooderscrew1-alt/nuvio-scraped-addon/main/stremio-manifest.json
+```
+
 ## 📊 Addon Statistics
-- **Total Streams Configured:** 24
-- **Categories Included:** Películas, Series, Doramas, Anime, Action, Animation, Adventure, Sci-Fi, Comedy, Crime, Documentary, Drama, Fantasy, Foreign, War, History, TV Movies, Romance
-- **Last Synced Timestamp:** 2026-05-22 18:14:48
+- **Total Streams Configured:** 25
+- **Categories Included:** General, Movies, Series, Drama, Anime, Action, Animation, Adventure, Sci-Fi, Comedy, Crime, Documentary, Fantasy, Foreign, War, History, TV Movies, Romance
+- **Last Synced Timestamp:** 2026-05-22 18:28:58
 
 ---
 *Note: IPTV networks are hosted statically by public links discoverable publicly on searched websites.*
